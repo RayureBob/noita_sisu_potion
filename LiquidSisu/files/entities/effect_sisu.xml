@@ -1,0 +1,18 @@
+<Entity>
+    <InheritTransformComponent>
+    </InheritTransformComponent>
+
+    <GameEffectComponent 
+        effect="CUSTOM"
+        custom_effect_id="girt"
+    >
+    </GameEffectComponent>
+
+    
+    <LuaComponent
+        script_source_file = "mods/HealingPotion/files/scripts/effect_sisu.lua"
+        execute_on_added = "1"
+        call_init_function= "1"
+    >
+    </LuaComponent>
+</Entity>
