@@ -24,8 +24,8 @@ On one hand, it heals efficiently. On the other, it makes you more vulnerable. I
 
 *The girl pulled her blanket up to her nose, her eyes riveted to the strange shadows dancing around her window. A chaotic spectacle which yet managed to convey some sort of order. Slim sticks of shade were crawling on the walls, the ground, the ceiling. Sometimes entering uninvited, sometimes feinting going out, as of to tease the terrified child. The shadows were not alone, they never really are. The great moon was close behind, lighting up what should, veiling up the rest, and with her was the wind, which made the night whistle. So the girl, set in her bed like she would be in a coffin, was waiting silently for her fate to come.*
 
-*But instead her mother came, she felt terror settle. She sat close to her daughter and pulled the blanket down. She caressed her little girl, looked into her eyes, spoke to her four words, kissed her goodnight, and gave silence its place back.
+*But instead her mother came, she felt terror settle. She sat close to her daughter and pulled the blanket down. She caressed her little girl, looked into her eyes, spoke to her four words and added a goodbye, then gave back to silence its place by the child's side.*
 
-*The girl then closed her eyes, and fell sound asleep. She had been given a powerful spell. A few little words that would soon enough make her a queen to an unruly world.*
+*The girl then fell asleep. She now had a spell. She was Noita. Shadows should be afraid, if ever fear was to be felt.*
 
 *"Sisu, minun pikku noitani."*
