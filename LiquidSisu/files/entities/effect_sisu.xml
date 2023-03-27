@@ -10,7 +10,7 @@
 
     
     <LuaComponent
-        script_source_file = "mods/HealingPotion/files/scripts/effect_sisu.lua"
+        script_source_file = "mods/LiquidSisu/files/scripts/effect_sisu.lua"
         execute_on_added = "1"
         call_init_function= "1"
     >

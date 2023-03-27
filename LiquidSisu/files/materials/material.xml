@@ -14,7 +14,7 @@
         requires_oxygen="0"
     >
     <Graphics
-        texture_file="mods/HealingPotion/files/materials_gfx/sisu.png"
+        texture_file="mods/LiquidSisu/files/materials_gfx/sisu.png"
         color="54cf274e">
     </Graphics>
     
