@@ -1,5 +1,5 @@
 # Noita - Liquid sisu potion
-
+###Still WIP
 This mods adds a new material that, when ingested, gives a status effect healing the player but with the counter part that the player will take twice as much damage for the following 5 minutes.
 
 
@@ -22,10 +22,10 @@ On one hand, it heals efficiently. On the other, it makes you more vulnerable. I
 ![status effect](https://i.imgur.com/QP4F7II.png)
 ![liquid](https://i.imgur.com/QD813MC.png)
 
-*The girl pulled her blanket up to her nose, her eyes riveted to the strange shadows dancing around her window. A chaotic spectacle which yet managed to convey some sort of order. Slim sticks of shade were crawling on the walls, the ground, the ceiling. Sometimes entering uninvited, sometimes feinting going out, as of to tease the terrified child. The shadows were not alone, they never really are. The great moon was close behind, lighting up what should, veiling up the rest, and with her was the wind, which made the night whistle. So the girl, set in her bed like she would be in a coffin, was waiting silently for her fate to come.*
+*The girl pulled her blanket up to her nose, her eyes riveted to the strange shadows dancing around her window. A chaotic spectacle which yet managed to convey some sort of intent. Slim sticks of shade were crawling on the walls, the ground, the ceiling. Sometimes entering uninvited, sometimes feinting going out, as of to tease the terrified child. The shadows were not alone, as they never really are. The great moon was close behind, lighting up what should and veiling up the rest, and with her was the wind, which made darkness whistle. So the girl, set in her bed like she would be in a coffin, was waiting silently for her fate to come.*
 
-*But instead her mother came, she felt terror settle. She sat close to her daughter and pulled the blanket down. She caressed her little girl, looked into her eyes, spoke to her four words and added a goodbye, then gave back to silence its place by the child's side.*
+*But feeling terror settle, he mother came instead. She sat close to her daughter and pulled the blanket down. She caressed her little girl, looked into her eyes, spoke to her four words and then a few goodbyes, and gave back to the night its place by the child's side.*
 
-*The girl then fell asleep. She now had a spell. She was Noita. Shadows should be afraid, if ever fear was to be felt.*
+*The girl then fell sound asleep. She now had a spell. She was Noita. Shadows should be afraid, if ever fear was to be felt.*
 
 *"Sisu, minun pikku noitani."*
