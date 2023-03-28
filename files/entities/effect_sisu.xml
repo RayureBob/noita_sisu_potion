@@ -8,12 +8,26 @@
     >
     </GameEffectComponent>
 
-    
     <LuaComponent
-        script_source_file = "mods/LiquidSisu/files/scripts/effect_sisu.lua"
+        script_source_file = "mods/LiquidSisu/files/scripts/effect_sisu_init.lua"
         execute_on_added = "1"
-        call_init_function= "1"
+        call_init_function = "1"
         enable_coroutines = "1"
+        execute_every_n_frame = "150"
+    >
+    </LuaComponent>
+
+    <VariableStorageComponent
+        name = "effect_on_target"
+    >
+    </VariableStorageComponent>
+
+
+    <LuaComponent
+        script_source_file = "mods/LiquidSisu/files/scripts/effect_sisu_on_removed.lua"
+        execute_on_added="0"
+        execute_on_removed = "1"
+        execute_every_n_frame="1"
     >
     </LuaComponent>
 </Entity>

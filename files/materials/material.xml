@@ -4,43 +4,47 @@
         ui_name="liquid sisu"
         tags="[liquid],[magic_liquid],[water]"
         burnable="0"
-        density="0"
+        density="1"
         wang_color="54cf274e"
         generates_smoke="0"
         liquid_gravity="0.8"
         liquid_stains="2"
         liquid_sand="0"
         on_fire="0"
-        requires_oxygen="0"
+        gfx_glow="1"
+        gfx_glow_color = "ffffffff"
+        requires_oxygen="1"
+        lifetime="300"
     >
+    <!-- <Reaction
+        probability="200"
+        input_cell1="liquid sisu" input_cell2="[liquid]"
+        output_cell1="steel_static"
+        output_cell2="air"
+    >
+    </Reaction> -->
+
     <Graphics
         texture_file="mods/LiquidSisu/files/materials_gfx/sisu.png"
         color="54cf274e">
     </Graphics>
     
     <StatusEffects>
-
-        <Stains>
-            <StatusEffect type="SISU" amount="0.6" />
-        </Stains>
-
         <Ingestion>
-			<StatusEffect type="SISU" amount="0.6"/>
+			<StatusEffect type="SISU" amount=".02"/>
 		</Ingestion>
 	</StatusEffects>
 
     <ParticleEffect
 		vel.y="0"
-		vel_random.min_x="-5"
-		vel_random.max_x="5"
 		lifetime.min="0.5"
-		lifetime.max="1"
-		gravity.y="-5.857"
+		lifetime.max="3"
+		gravity.y="-17.857"
 		render_on_grid="1"
 		airflow_force=".25"
-		airflow_scale="1"
-		friction="-3"
-		probability=".5"
+		airflow_scale="0"
+		friction="0"
+		probability=".3"
 		count.min="0"
 		count.max="1"
         draw_as_long="1"
